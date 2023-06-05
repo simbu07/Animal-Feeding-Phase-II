@@ -97,6 +97,7 @@ public class DetectCollider : MonoBehaviour
 }
 ```
 ### Output:
+![img](https://user-images.githubusercontent.com/93427246/243053053-c2f9b66c-6961-4bb7-8004-492a27d78624.png)
 
 ### Result:
 
