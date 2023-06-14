@@ -1,4 +1,4 @@
-## Ex-6 Animal-Feeding-Phase-II
+## Ex-5 Animal-Feeding-Phase-II
 ### Date:15/5/2023
 ### Aim:
 To develop a animal feeding game-Phase-2 using unity.
